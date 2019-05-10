@@ -10,3 +10,4 @@ fft.Init(NO);
 // SX <- pionts
 fft.Transform(SX);
 // SX -> spectrum
+ 
