@@ -16,7 +16,7 @@ namespace FFT
 
             for (int i = 0; i < 31; i++)
             {
-                if (N == (1L << i))
+                if (N == ((int)1 << i))
                 {
                     Npow2 = i;
                     break;
