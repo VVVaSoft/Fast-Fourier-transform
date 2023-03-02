@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-
+   
 namespace FFT
-{
+{  
     class NCheck
     {
         public static void Check(ref int N, ref int Npow2)
